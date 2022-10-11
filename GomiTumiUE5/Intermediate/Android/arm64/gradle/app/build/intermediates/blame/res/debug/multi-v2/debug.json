@@ -1425,30 +1425,6 @@
             ]
         },
         {
-            "outputFile": "Z:\\app\\build\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
-            "map": [
-                {
-                    "source": "Z:\\app\\src\\main\\res\\values-land\\styles.xml",
-                    "from": {
-                        "startLines": "3,5",
-                        "startColumns": "4,4",
-                        "startOffsets": "59,159",
-                        "endLines": "3,9",
-                        "endColumns": "96,12",
-                        "endOffsets": "151,426"
-                    },
-                    "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,149",
-                        "endLines": "2,7",
-                        "endColumns": "93,12",
-                        "endOffsets": "144,410"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "Z:\\app\\build\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
             "map": [
                 {
@@ -1809,6 +1785,30 @@
                         "startOffsets": "2838,2912,3029,3097,3166,3255,3369",
                         "endColumns": "73,116,67,68,88,113,76",
                         "endOffsets": "2907,3024,3092,3161,3250,3364,3441"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "Z:\\app\\build\\intermediates\\res\\merged\\debug\\values-port_values-port.arsc.flat",
+            "map": [
+                {
+                    "source": "Z:\\app\\src\\main\\res\\values-port\\styles.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,159",
+                        "endLines": "3,9",
+                        "endColumns": "96,12",
+                        "endOffsets": "151,426"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,149",
+                        "endLines": "2,7",
+                        "endColumns": "93,12",
+                        "endOffsets": "144,410"
                     }
                 }
             ]

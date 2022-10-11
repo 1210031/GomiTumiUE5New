@@ -397,20 +397,76 @@
 			"ChunkId": "7819480612024b3600000001"
 		},
 		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
-			"ChunkId": "2d5d52b0905803e600000001"
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
 		},
 		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
-			"ChunkId": "2d5d52b0905803e600000002"
+			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
+			"ChunkId": "f95ade32d57ba98c00000001"
 		},
 		{
-			"Path": "GomiTumiUE5/Content/InGame/Sprite/danbo-ru.uasset",
-			"ChunkId": "1a6627de6747c05c00000001"
+			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+			"ChunkId": "72ff6427f1042ed200000001"
 		},
 		{
-			"Path": "GomiTumiUE5/Content/InGame/Sprite/bike.uasset",
-			"ChunkId": "31d2cd4938cdef8f00000001"
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
+			"ChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
+			"ChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
+			"ChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
+			"ChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
+			"ChunkId": "6ebbe4a6ced841cc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
+			"ChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
+			"ChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
+			"ChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
+			"ChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
+			"ChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+			"ChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
+			"ChunkId": "08578f8490e5c66d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset",
+			"ChunkId": "ea704fa9c99103cc00000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/speaker.uasset",
+			"ChunkId": "941382960be1102700000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/shoose.uasset",
+			"ChunkId": "bb8fb3b7f7e445b900000001"
 		},
 		{
 			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
@@ -597,100 +653,76 @@
 			"ChunkId": "bd472f8cbf5f723d00000002"
 		},
 		{
-			"Path": "GomiTumiUE5/Content/InGame/Sprite/shoose.uasset",
-			"ChunkId": "052df601f42f5c1300000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/UI/weight.uasset",
+			"ChunkId": "ea53d77f4d8f530c00000001"
 		},
 		{
-			"Path": "GomiTumiUE5/Content/InGame/Sprite/paper.uasset",
-			"ChunkId": "bdbdc94a4e57db1100000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/track.uasset",
+			"ChunkId": "9dc585bbd882f35f00000001"
 		},
 		{
-			"Path": "GomiTumiUE5/Content/InGame/Sprite/gomibako.uasset",
-			"ChunkId": "ad235046949abb0e00000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/statue.uasset",
+			"ChunkId": "73104825b1700e4900000001"
 		},
 		{
-			"Path": "GomiTumiUE5/Content/InGame/Sprite/bg.uasset",
-			"ChunkId": "2e80dbf9703f991a00000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/sheet.uasset",
+			"ChunkId": "c306dbd19297c5e700000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
-			"ChunkId": "b916d415e9289b5500000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/rocket.uasset",
+			"ChunkId": "67538e9b260df06400000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
-			"ChunkId": "c8548e53bc64ae9400000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/pet.uasset",
+			"ChunkId": "00f2c6962f26abe600000001"
 		},
 		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
-			"ChunkId": "c472a8877b0ae2f900000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/pen.uasset",
+			"ChunkId": "3d11e023955e331900000001"
 		},
 		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"ChunkId": "2a8ace463a029fae00000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/paper.uasset",
+			"ChunkId": "7d241e099dbfc4a100000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
-			"ChunkId": "abde94c25a5272fc00000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/panpkin.uasset",
+			"ChunkId": "529f2f0f90cf4e2200000001"
 		},
 		{
-			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
-			"ChunkId": "f95ade32d57ba98c00000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/kokesi.uasset",
+			"ChunkId": "73dddf72769cd00600000001"
 		},
 		{
-			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
-			"ChunkId": "72ff6427f1042ed200000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/hummer.uasset",
+			"ChunkId": "422d2ea4dfca633800000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
-			"ChunkId": "da9ef9387e6c513600000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/hoeele.uasset",
+			"ChunkId": "fc7aba2e3220377400000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
-			"ChunkId": "f38cb73e67825d9600000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/goldcat.uasset",
+			"ChunkId": "1704974c0853a12400000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
-			"ChunkId": "2acd952336aab07f00000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/flypan.uasset",
+			"ChunkId": "006a45fc4c2df53300000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
-			"ChunkId": "3c018da41573213600000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/earth.uasset",
+			"ChunkId": "cf25b1451020a8b700000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
-			"ChunkId": "6ebbe4a6ced841cc00000001"
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
 		},
 		{
-			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
-			"ChunkId": "3bf2df25e14476d700000001"
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
-			"ChunkId": "4762b775bfe4b22d00000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
-			"ChunkId": "7936cc24a0df034100000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
-			"ChunkId": "12c2c1346a8453a600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
-			"ChunkId": "305a1ec18dd5a4be00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
-			"ChunkId": "9a5a67fa3c2b2de900000001"
-		},
-		{
-			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
-			"ChunkId": "08578f8490e5c66d00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset",
-			"ChunkId": "ea704fa9c99103cc00000001"
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/danbo-ru.uasset",
+			"ChunkId": "afd28408468766a500000001"
 		},
 		{
 			"Path": "Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset",
@@ -739,6 +771,70 @@
 		{
 			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
 			"ChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/drone.uasset",
+			"ChunkId": "9db2832f1297ecc000000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/dinasor.uasset",
+			"ChunkId": "fd4320f69366dd5700000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/daruma.uasset",
+			"ChunkId": "2734fb04b8b0701800000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/danbel.uasset",
+			"ChunkId": "8666c91d3146b46500000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/cone.uasset",
+			"ChunkId": "cc0db5cefa4e2b1400000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/cat.uasset",
+			"ChunkId": "c46e20e7c066096e00000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/box.uasset",
+			"ChunkId": "454aea68af319c8200000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/bottle.uasset",
+			"ChunkId": "e19d06f1e8c87e7a00000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/book.uasset",
+			"ChunkId": "813165070846105600000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/Gomi/bike.uasset",
+			"ChunkId": "8e64dfb7e4f3dac200000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/gomibako.uasset",
+			"ChunkId": "101886272109af6200000001"
+		},
+		{
+			"Path": "GomiTumiUE5/Content/InGame/Sprite/Texture/bg.uasset",
+			"ChunkId": "88296bb32df41e2200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
+			"ChunkId": "c8548e53bc64ae9400000001"
 		},
 		{
 			"Path": "GomiTumiUE5/Content/InGame/Sprite/bg_Sprite.uasset",
@@ -1571,19 +1667,76 @@
 			"PackageChunkId": "7819480612024b3600000001"
 		},
 		{
-			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
-			"PackageChunkId": "2d5d52b0905803e600000001",
-			"BulkDataChunkIds": [
-				"2d5d52b0905803e600000002"
-			]
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
 		},
 		{
-			"Name": "/Game/InGame/Sprite/danbo-ru",
-			"PackageChunkId": "1a6627de6747c05c00000001"
+			"Name": "/Engine/Maps/Entry_BuiltData",
+			"PackageChunkId": "f95ade32d57ba98c00000001"
 		},
 		{
-			"Name": "/Game/InGame/Sprite/bike",
-			"PackageChunkId": "31d2cd4938cdef8f00000001"
+			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
+			"PackageChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
+			"PackageChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
+			"PackageChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial",
+			"PackageChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
+			"PackageChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
+			"PackageChunkId": "6ebbe4a6ced841cc00000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
+			"PackageChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
+			"PackageChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
+			"PackageChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Name": "/ControlRig/M_Manip",
+			"PackageChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Name": "/Paper2D/DummySprite",
+			"PackageChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultSpriteMaterial",
+			"PackageChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Roboto",
+			"PackageChunkId": "08578f8490e5c66d00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/Camera/MI_CineMat_Rig",
+			"PackageChunkId": "ea704fa9c99103cc00000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/speaker",
+			"PackageChunkId": "941382960be1102700000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/shoose",
+			"PackageChunkId": "bb8fb3b7f7e445b900000001"
 		},
 		{
 			"Name": "/Engine/EngineResources/WhiteSquareTexture",
@@ -1761,100 +1914,75 @@
 			]
 		},
 		{
-			"Name": "/Game/InGame/Sprite/shoose",
-			"PackageChunkId": "052df601f42f5c1300000001"
+			"Name": "/Game/InGame/Sprite/Texture/UI/weight",
+			"PackageChunkId": "ea53d77f4d8f530c00000001"
 		},
 		{
-			"Name": "/Game/InGame/Sprite/paper",
-			"PackageChunkId": "bdbdc94a4e57db1100000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/track",
+			"PackageChunkId": "9dc585bbd882f35f00000001"
 		},
 		{
-			"Name": "/Game/InGame/Sprite/gomibako",
-			"PackageChunkId": "ad235046949abb0e00000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/statue",
+			"PackageChunkId": "73104825b1700e4900000001"
 		},
 		{
-			"Name": "/Game/InGame/Sprite/bg",
-			"PackageChunkId": "2e80dbf9703f991a00000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/sheet",
+			"PackageChunkId": "c306dbd19297c5e700000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
-			"PackageChunkId": "b916d415e9289b5500000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/rocket",
+			"PackageChunkId": "67538e9b260df06400000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
-			"PackageChunkId": "c8548e53bc64ae9400000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/pet",
+			"PackageChunkId": "00f2c6962f26abe600000001"
 		},
 		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
-			"PackageChunkId": "c472a8877b0ae2f900000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/pen",
+			"PackageChunkId": "3d11e023955e331900000001"
 		},
 		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
-			"PackageChunkId": "2a8ace463a029fae00000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/paper",
+			"PackageChunkId": "7d241e099dbfc4a100000001"
 		},
 		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
-			"PackageChunkId": "abde94c25a5272fc00000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/panpkin",
+			"PackageChunkId": "529f2f0f90cf4e2200000001"
 		},
 		{
-			"Name": "/Engine/Maps/Entry_BuiltData",
-			"PackageChunkId": "f95ade32d57ba98c00000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/kokesi",
+			"PackageChunkId": "73dddf72769cd00600000001"
 		},
 		{
-			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
-			"PackageChunkId": "72ff6427f1042ed200000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/hummer",
+			"PackageChunkId": "422d2ea4dfca633800000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
-			"PackageChunkId": "da9ef9387e6c513600000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/hoeele",
+			"PackageChunkId": "fc7aba2e3220377400000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
-			"PackageChunkId": "f38cb73e67825d9600000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/goldcat",
+			"PackageChunkId": "1704974c0853a12400000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial",
-			"PackageChunkId": "2acd952336aab07f00000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/flypan",
+			"PackageChunkId": "006a45fc4c2df53300000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
-			"PackageChunkId": "3c018da41573213600000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/earth",
+			"PackageChunkId": "cf25b1451020a8b700000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
-			"PackageChunkId": "6ebbe4a6ced841cc00000001"
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"PackageChunkId": "2d5d52b0905803e600000001",
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
 		},
 		{
-			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
-			"PackageChunkId": "3bf2df25e14476d700000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
-			"PackageChunkId": "4762b775bfe4b22d00000001"
-		},
-		{
-			"Name": "/Paper2D/DummySprite",
-			"PackageChunkId": "7936cc24a0df034100000001"
-		},
-		{
-			"Name": "/Paper2D/DefaultSpriteMaterial",
-			"PackageChunkId": "12c2c1346a8453a600000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
-			"PackageChunkId": "305a1ec18dd5a4be00000001"
-		},
-		{
-			"Name": "/ControlRig/M_Manip",
-			"PackageChunkId": "9a5a67fa3c2b2de900000001"
-		},
-		{
-			"Name": "/Engine/EngineFonts/Roboto",
-			"PackageChunkId": "08578f8490e5c66d00000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/Camera/MI_CineMat_Rig",
-			"PackageChunkId": "ea704fa9c99103cc00000001"
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/danbo-ru",
+			"PackageChunkId": "afd28408468766a500000001"
 		},
 		{
 			"Name": "/Engine/VREditor/TransformGizmo/SM_Sequencer_Node",
@@ -1903,6 +2031,70 @@
 		{
 			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
 			"PackageChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"PackageChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/drone",
+			"PackageChunkId": "9db2832f1297ecc000000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/dinasor",
+			"PackageChunkId": "fd4320f69366dd5700000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/daruma",
+			"PackageChunkId": "2734fb04b8b0701800000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/danbel",
+			"PackageChunkId": "8666c91d3146b46500000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/cone",
+			"PackageChunkId": "cc0db5cefa4e2b1400000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/cat",
+			"PackageChunkId": "c46e20e7c066096e00000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/box",
+			"PackageChunkId": "454aea68af319c8200000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/bottle",
+			"PackageChunkId": "e19d06f1e8c87e7a00000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/book",
+			"PackageChunkId": "813165070846105600000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/Gomi/bike",
+			"PackageChunkId": "8e64dfb7e4f3dac200000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/gomibako",
+			"PackageChunkId": "101886272109af6200000001"
+		},
+		{
+			"Name": "/Game/InGame/Sprite/Texture/bg",
+			"PackageChunkId": "88296bb32df41e2200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"PackageChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
+			"PackageChunkId": "c8548e53bc64ae9400000001"
 		},
 		{
 			"Name": "/Game/InGame/UI/GomiTumi_UI",

@@ -156,7 +156,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ta
 activity#com.epicgames.unreal.SplashActivity
 ADDED from Z:\app\src\main\AndroidManifest.xml:4:5-9:16
 	android:screenOrientation
-		ADDED from Z:\app\src\main\AndroidManifest.xml:4:231-274
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:231-267
 	android:label
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:90-122
 	android:launchMode
@@ -164,7 +164,7 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:4:5-9:16
 	android:exported
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:66-89
 	android:debuggable
-		ADDED from Z:\app\src\main\AndroidManifest.xml:4:275-300
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:268-293
 	android:resizeableActivity
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:196-230
 	android:theme
@@ -184,13 +184,13 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:7:9-69
 activity#com.epicgames.unreal.GameActivity
 ADDED from Z:\app\src\main\AndroidManifest.xml:10:5-12:16
 	android:screenOrientation
-		ADDED from Z:\app\src\main\AndroidManifest.xml:10:387-430
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:387-423
 	android:label
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:64-96
 	android:launchMode
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:355-386
 	android:debuggable
-		ADDED from Z:\app\src\main\AndroidManifest.xml:10:431-456
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:424-449
 	android:resizeableActivity
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:320-354
 	android:configChanges
@@ -206,13 +206,13 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:11:7-79
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:11:18-53
 activity#com.YourCompany.GomiTumiUE5.DownloaderActivity
-ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-231
+ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-224
 	android:screenOrientation
-		ADDED from Z:\app\src\main\AndroidManifest.xml:13:50-93
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:50-86
 	android:configChanges
-		ADDED from Z:\app\src\main\AndroidManifest.xml:13:94-187
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:87-180
 	android:theme
-		ADDED from Z:\app\src\main\AndroidManifest.xml:13:188-228
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:181-221
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:13:15-49
 meta-data#com.epicgames.unreal.GameActivity.EngineVersion
