@@ -1,16 +1,16 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.YourCompany.GomiTumiUE5" android:installLocation="internalOnly" android:versionCode="1" android:versionName="1.0">
   <!-- Application Definition -->
   <application android:label="@string/app_name" android:icon="@drawable/icon" android:hardwareAccelerated="true" android:extractNativeLibs="true" android:name="com.epicgames.unreal.GameApplication" android:requestLegacyExternalStorage="true" android:hasCode="true">
-    <activity android:name="com.epicgames.unreal.SplashActivity" android:exported="true" android:label="@string/app_name" android:theme="@style/UnrealSplashTheme" android:launchMode="singleTask" android:resizeableActivity="false" android:screenOrientation="sensorLandscape" android:debuggable="true">
+    <activity android:name="com.epicgames.unreal.SplashActivity" android:exported="true" android:label="@string/app_name" android:theme="@style/UnrealSplashTheme" android:launchMode="singleTask" android:resizeableActivity="false" android:screenOrientation="portrait" android:debuggable="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:name="com.epicgames.unreal.GameActivity" android:label="@string/app_name" android:theme="@style/UnrealSplashTheme" android:configChanges="mcc|mnc|uiMode|density|screenSize|smallestScreenSize|screenLayout|orientation|keyboardHidden|keyboard|navigation|touchscreen|locale|fontScale|layoutDirection" android:resizeableActivity="false" android:launchMode="singleTask" android:screenOrientation="sensorLandscape" android:debuggable="true">
+    <activity android:name="com.epicgames.unreal.GameActivity" android:label="@string/app_name" android:theme="@style/UnrealSplashTheme" android:configChanges="mcc|mnc|uiMode|density|screenSize|smallestScreenSize|screenLayout|orientation|keyboardHidden|keyboard|navigation|touchscreen|locale|fontScale|layoutDirection" android:resizeableActivity="false" android:launchMode="singleTask" android:screenOrientation="portrait" android:debuggable="true">
       <meta-data android:name="android.app.lib_name" android:value="Unreal" />
     </activity>
-    <activity android:name=".DownloaderActivity" android:screenOrientation="sensorLandscape" android:configChanges="mcc|mnc|uiMode|density|screenSize|orientation|keyboardHidden|keyboard" android:theme="@style/UnrealSplashTheme" />
+    <activity android:name=".DownloaderActivity" android:screenOrientation="portrait" android:configChanges="mcc|mnc|uiMode|density|screenSize|orientation|keyboardHidden|keyboard" android:theme="@style/UnrealSplashTheme" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.EngineVersion" android:value="5.0.2" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.EngineBranch" android:value="++UE5+Release-5.0" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.ProjectVersion" android:value="1.0.0.0" />

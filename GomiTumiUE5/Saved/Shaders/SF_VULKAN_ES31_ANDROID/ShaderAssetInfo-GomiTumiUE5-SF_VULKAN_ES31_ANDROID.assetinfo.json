@@ -113,12 +113,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BC0E2BC6C4E88B0A7AFDE2D69A2EDE601A3EB914",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "95D17FB993D14F6768D7552D0D795582EAACD00A",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -128,6 +122,12 @@
 			"ShaderMapHash": "513DBA5DDFBBD919BB46A58D62A3E0D1403C0192",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "BC0E2BC6C4E88B0A7AFDE2D69A2EDE601A3EB914",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
